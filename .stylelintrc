@@ -1,0 +1,7 @@
+{
+  "extends": ["stylelint-config-idiomatic-order"],
+  "customSyntax": "postcss-less",
+  "rules": {
+    "indentation": 2
+  }
+}
