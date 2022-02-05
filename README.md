@@ -1,0 +1,1 @@
+# fe-scaffold-craco-federation
